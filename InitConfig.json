@@ -3,5 +3,6 @@
 	"server_ip":"https://gamez.quarkdomino.com:20000",
 	"checkSim":"0",
 	"airplaneNumber":"Quarkslots0",
-	"payUrl":"https://gamez.quarkdomino.com:20100"
+	"payUrl":"https://gamez.quarkdomino.com:20100",
+	"ossUrl":"http://192.168.133.18:23000/games/"
 }
