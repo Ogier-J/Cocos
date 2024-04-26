@@ -1,9 +1,9 @@
 {
 	"MinVersion":"1.0.0",
-	"server_ip":"https://gamez.quarkdomino.com:20000",
+	"server_ip":"http://192.168.133.12:20000",
 	"checkSim":"0",
 	"airplaneNumber":"Quarkslots0",
-	"payUrl":"https://gamez.quarkdomino.com:20100",
-	"ossUrl":"http://192.168.133.18:23000/games/",
-	"ossUrlZip":"http://192.168.133.18:23000/games/"
+	"payUrl":"http://192.168.133.12:20100",
+	"ossUrl":"http://192.168.133.12:23000/games/",
+	"ossUrlZip":"http://192.168.133.12:23000/games/"
 }
