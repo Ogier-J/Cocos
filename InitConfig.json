@@ -4,5 +4,6 @@
 	"checkSim":"0",
 	"airplaneNumber":"Quarkslots0",
 	"payUrl":"https://gamez.quarkdomino.com:20100",
-	"ossUrl":"http://192.168.133.18:23000/games/"
+	"ossUrl":"http://192.168.133.18:23000/games/",
+	"ossUrlZip":"http://192.168.133.18:23000/games/"
 }
